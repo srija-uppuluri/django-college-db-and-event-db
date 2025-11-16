@@ -7,7 +7,7 @@ from eventdb.models import Hosts
 from eventdb.models import Events
 import requests
 
-API_key='AIzaSyAF-E-qxpMFYmCPoLP1j9LhEXOc5WDm3C8'
+API_key=''
 '''curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent" \
   -H 'Content-Type: application/json' \
   -H 'X-goog-api-key: AIzaSyAF-E-qxpMFYmCPoLP1j9LhEXOc5WDm3C8' \
